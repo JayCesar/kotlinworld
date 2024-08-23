@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# History
 
 - It all started in 2011 with the company JetBrains. (Beginning)
    - JetBrains is the same company that developed IntelliJ (with 100% support for Kotlin).
@@ -23,4 +23,4 @@ sidebar_position: 1
 
 Today, Kotlin is increasingly gaining ground in the backend world.
 
-![imaage hsitory](../static/img/print.png);
+![imaage hsitory](../../static/img/print.png);
