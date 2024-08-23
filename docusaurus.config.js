@@ -14,13 +14,14 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://jaycesar.github.io',
+  
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/kotlinworld/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jaycesar', // Usually your GitHub org/user name.
+  organizationName: 'JayCesar', // Usually your GitHub org/user name.
   projectName: 'kotlinworld', // Usually your repo name.
 
   onBrokenLinks: 'throw',
