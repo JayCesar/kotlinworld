@@ -11,7 +11,7 @@ function HomepageHeader() {
   return (
     <section className={styles.bgheader}>
       <div  className={styles.insideContent}>
-        <h1> <i>> my kotlin journey</i></h1>
+        <h1> <i>> my kotlin journey!</i>🚀</h1>
         <p>
           Welcome to my <b>Kotlin development notes!</b> 
           
@@ -23,7 +23,11 @@ function HomepageHeader() {
           Whether you're a fellow learner or just curious, <b>feel free to explore
           my notes</b> and see <b>how my understanding of Kotlin evolves over time.</b>
         </p>
+
+
+        <a href="https://jaycesar.github.io/kotlinworld/docs/intro"><button className={styles.buttonCheckout}>Check it out!</button></a>
       </div>
+    
     </section>
   );
 
